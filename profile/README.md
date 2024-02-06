@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-**NSADISHA-DEV** was created for client projects.
+Welcome to **NSADISHA-DEV**.
